@@ -1,4 +1,8 @@
 This is the first task given by Vimal Daga sir under Hybrid Multi Cloud Training of creating a complete automated architecture consisting of AWS Instances, AWS Storage(EBS and S3) through terraform.
+Architecture:
+
+![Untitled Diagram(4)](https://user-images.githubusercontent.com/48363834/84638224-4fb9ba00-af14-11ea-9759-bb90dfa48406.jpg)
+
 
 Task Description:
 1. Create the key and security group which allow the port 80.
